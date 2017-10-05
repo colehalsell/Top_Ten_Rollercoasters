@@ -1,0 +1,30 @@
+.btn1{
+margin:10%;
+}
+h1{
+  text-align: center;
+  color: red;
+}
+body{
+  background-color: black;
+}
+.card-body{
+  background-color: black;
+}
+.card-text{
+  color: white;
+
+}
+.card-title{
+  color:white;
+}
+
+.card-footer{
+  background-color: black;
+
+}
+
+.ftext{
+  color: white;
+  float:right;
+}
